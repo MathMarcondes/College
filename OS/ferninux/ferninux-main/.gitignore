@@ -1,0 +1,8 @@
+*~
+\#*\#
+*\#*
+*.img
+build/
+downloads/
+backup/
+/util/sources_md5
